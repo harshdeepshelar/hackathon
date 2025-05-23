@@ -1,0 +1,10 @@
+Q: What is the average annual premium for policies?
+A: The average annual premium is 1256.41.
+Q: What are the most common incident types?
+A: The most common incident type is Multi-vehicle Collision.
+Q: What is the average total claim amount?
+A: The average total claim amount is 52761.94.
+Q: What percentage of policies have reported fraud?
+A: 24.70% of policies have reported fraud.
+Q: What is the most common vehicle make involved in incidents?
+A: The most common vehicle make is Saab.
